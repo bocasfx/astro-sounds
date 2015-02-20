@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+# comment
+
+CACHE:
+/audio/w01-1.mp3
+/audio/w01-2.mp3
+/audio/w01-3.mp3
+/audio/w02-1.mp3
+/audio/w02-2.mp3
+/js/lib/dojo/dojo.js
+
+NETWORK:
+*
+
